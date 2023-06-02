@@ -1,0 +1,4 @@
+streamlit
+pillow
+streamlit_drawable_canvas
+google-cloud-aiplatform
