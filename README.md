@@ -36,5 +36,9 @@ gcloud run deploy sd-streamlit --image gcr.io/{project-id}/{repo} --region {regi
 
 ## Cleanup
 
-1. Delete the VertexAI endpoint.
-2. Undeploy the Cloud Run app.
+
+1. Delete the Cloud Run app.
+```commandline
+gcloud run services delete sd-streamlit
+```
+2. Delete the VertexAI endpoint.
