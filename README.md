@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how you can use streamlit to build an app that intereacts with [Stable Diffusion inpainting model](https://huggingface.co/runwayml/stable-diffusion-inpainting) deployed on VertexAI endpoint.
+This project demonstrates how you can use streamlit to build an app that interacts with [Stable Diffusion inpainting model](https://huggingface.co/runwayml/stable-diffusion-inpainting) deployed on VertexAI endpoint.
 
 ### UI
 ![UI](images/ui.png)
